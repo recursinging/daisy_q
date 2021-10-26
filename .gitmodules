@@ -1,0 +1,6 @@
+[submodule "lib/libDaisy"]
+	path = lib/libDaisy
+	url = git@github.com:electro-smith/libDaisy.git
+[submodule "lib/q"]
+	path = lib/q
+	url = git@github.com:cycfi/q.git
